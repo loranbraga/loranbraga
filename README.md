@@ -1,6 +1,6 @@
 ### Hey u, welcome!
 
-- :computer: I’m currently working at [Luby Software](https://github.com/lubysoftware)
+- :computer: I’m currently working at Coeh
 
 - :pencil: I'm currently learning Typescript
 
